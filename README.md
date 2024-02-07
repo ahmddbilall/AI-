@@ -7,8 +7,8 @@ Welcome to the repository for our team's participation in the AI Competition org
 We are a dynamic team of three passionate individuals with expertise in machine learning, data analysis, and software development. Together, we bring a diverse set of skills and perspectives to the table, united by our common goal of excelling in the AI competition and making a positive impact through our work. We all are students of Data Science from FAST NUCES, Lahore. Currently, we are in the fourth semester of our degree.
 
 - [**Bilal Ahmad**](https://github.com/ahmddbilall)
-- [**Umair Imran**](https://github.com/abdullah-2k3)
-- [**Abdullah Maqsood**](https://github.com/umairimran)
+- [**Umair Imran**](https://github.com/umairimran)
+- [**Abdullah Maqsood**](https://github.com/abdullah-2k3)
 
 ## 🏆 About Softec AI Competition
 
