@@ -18,9 +18,9 @@ The details of the competition are provided in a 'SOFTEC.pdf' file attached to t
 
 ---
 
-📝 To trace our progress, check out the [wiki](wiki).
+📝 To trace our progress, check out the [wiki](https://github.com/ahmddbilall/AI_Competition_Softec/wiki).
 
-🔧 If you have any questions or suggestions, feel free to [open an issue](issues) or [Comment in discussions](discussions).
+🔧 If you have any questions or suggestions, feel free to open an [issue](https://github.com/ahmddbilall/AI_Competition_Softec/issues) or Comment in [discussions](https://github.com/ahmddbilall/AI_Competition_Softec/discussions).
 
 🌟 Don't forget to give us a star if you find this project helpful!
 
