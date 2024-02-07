@@ -14,25 +14,14 @@ We are a dynamic team of three passionate individuals with expertise in machine 
 
 [Softec](https://softecnu.org) AI Competition is a prestigious event that brings together top talents in artificial intelligence to showcase their skills and creativity. The competition challenges participants to train models based on specified requirements and evaluate their performance against set benchmarks. It's an exciting opportunity to learn, innovate, and network with fellow enthusiasts in the AI community.
 <br>
-The details of the competition are provided in a <span style="color:red">SOFTEC.pdf</span> file attached to this repository
+The details of the competition are provided in a 'SOFTEC.pdf' file attached to this repository
 
-## ✅ To Do
+---
 
-Here are the steps we need to complete for the AI competition:
+📝 To trace our progress, check out the [wiki](wiki).
 
-1. Preprocessing Data
-2. Exploratory Data Analysis (EDA)
-3. Training Model
-4. Evaluating Model Performance
-5. Fine-Tuning Model
-6. Documentation and Reporting
+🔧 If you have any questions or suggestions, feel free to [open an issue](issues) or [Comment in discussions](discussions).
 
-## 🚧 In Progress
+🌟 Don't forget to give us a star if you find this project helpful!
 
-- [ ] Preprocessing Data
-- [ ] Exploratory Data Analysis (EDA)
-
-## ✔️ Done
-
-- [x] Team Formation
-- [x] Competition Registration
+---
