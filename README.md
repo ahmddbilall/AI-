@@ -31,6 +31,29 @@ Participants are provided with a dataset of labeled microscopic images, categori
 Let's dive into the challenge and explore the fascinating world of mitotic cell detection! 🌟
 
 
+## 📊 Dataset Description
+
+The dataset consists of high-resolution microscopic images of various cell samples. Each image is either "Mitosis" or "Normal", based on the cell state. 🧬 The data has been split into two groups:
+
+- training set (`Train.csv`)
+- test set (`Test.csv`)
+
+The training set should be used to build machine-learning models. For the training set, the outcome (also known as the “ground truth”) for each image has been given.
+
+The test set should be used to see how well the model performs on unseen data. For the test set, the ground truth is not provided.
+
+### Sample Images
+
+For understanding, we are adding some sample images showing Mitosis. 📸 The particular cell region is circled.
+
+<div align="center">
+  <img src="https://github.com/ahmddbilall/AI_Competition_Softec/assets/138764971/975f4bd0-cdeb-482a-bcf8-14060fccb8ad" alt="Sample Image 1" width="400" />
+
+  <img src="https://github.com/ahmddbilall/AI_Competition_Softec/assets/138764971/4a0fffd8-8b8d-418e-a6b8-ca9d17868d87" alt="Sample Image 2" width="400" />
+</div>
+
+
+
 ---
 
 📝 To trace our progress, check out the [wiki](https://github.com/ahmddbilall/AI_Competition_Softec/wiki).
