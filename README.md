@@ -17,7 +17,7 @@ We are a dynamic team of three passionate individuals with expertise in machine 
 The details of the competition are provided in a 'SOFTEC.pdf' file attached to this repository
 
 
-## About the Problem
+## 🧬 About the Problem
 
 Welcome to the Mitotic Cell Detection Challenge! 🧫🔬 In this competition, we invite data scientists, machine learning enthusiasts, and computer vision experts to develop innovative solutions for a critical task in cellular biology and medical research - distinguishing mitotic cells from normal cells in biological images.
 
