@@ -16,6 +16,44 @@ We are a dynamic team of three passionate individuals with expertise in machine 
 <br>
 The details of the competition are provided in a 'SOFTEC.pdf' file attached to this repository
 
+
+## 🧬 About the Problem
+
+Welcome to the Mitotic Cell Detection Challenge! 🧫🔬 In this competition, we invite data scientists, machine learning enthusiasts, and computer vision experts to develop innovative solutions for a critical task in cellular biology and medical research - distinguishing mitotic cells from normal cells in biological images.
+
+Participants are provided with a dataset of labeled microscopic images, categorized into two classes: "Mitotic" and "Normal" cells. The objective is to develop a model that can accurately classify these images. This binary image classification task requires participants to process and analyze image data, extract relevant features, and apply appropriate techniques to distinguish between the two cell states.
+
+🔍 **Key Objectives:**
+- Develop a model to accurately classify microscopic images into "Mitotic" and "Normal" classes.
+- Implement innovative approaches in image processing, feature extraction, and classification techniques.
+- Contribute to advancements in cellular biology and medical research through machine learning and computer vision.
+
+Let's dive into the challenge and explore the fascinating world of mitotic cell detection! 🌟
+
+
+## 📊 Dataset Description
+
+The dataset consists of high-resolution microscopic images of various cell samples. Each image is either "Mitosis" or "Normal", based on the cell state. 🧬 The data has been split into two groups:
+
+- training set (`Train.csv`)
+- test set (`Test.csv`)
+
+The training set should be used to build machine-learning models. For the training set, the outcome (also known as the “ground truth”) for each image has been given.
+
+The test set should be used to see how well the model performs on unseen data. For the test set, the ground truth is not provided.
+
+### Sample Images
+
+For understanding, we are adding some sample images showing Mitosis. 📸 The particular cell region is circled.
+
+<div align="center">
+  <img src="https://github.com/ahmddbilall/AI_Competition_Softec/assets/138764971/975f4bd0-cdeb-482a-bcf8-14060fccb8ad" alt="Sample Image 1" width="400" />
+
+  <img src="https://github.com/ahmddbilall/AI_Competition_Softec/assets/138764971/4a0fffd8-8b8d-418e-a6b8-ca9d17868d87" alt="Sample Image 2" width="400" />
+</div>
+
+
+
 ---
 
 📝 To trace our progress, check out the [wiki](https://github.com/ahmddbilall/AI_Competition_Softec/wiki).
