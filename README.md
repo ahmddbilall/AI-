@@ -55,7 +55,7 @@ For understanding, we are adding some sample images showing Mitosis. 📸 The pa
 
 
 ---
-Initial round conquered!  Out of many, 32 teams (including ours!) have advanced to the final round. Let's keep pushing forward and bring home the win!  Check out the final round repository [here](https://github.com/ahmddbilall/AI_Competition_Softec_FinalRound)
+The initial round conquered!  Out of many, 32 teams (including ours!) have advanced to the final round. Let's keep pushing forward and bring home the win!  Check out the final round repository [here](https://github.com/ahmddbilall/AI_Competition_Softec_FinalRound)
 ---
 
 📝 To trace our progress, check out the [wiki](https://github.com/ahmddbilall/AI_Competition_Softec/wiki).
